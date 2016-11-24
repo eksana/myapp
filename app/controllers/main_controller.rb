@@ -5,9 +5,9 @@ class MainController < ApplicationController
   def help
   end
 
-  def contacts
+  def signin
   end
 
-  def about
+  def signup
   end
 end
